@@ -63,3 +63,34 @@ border-radius: 30px;
     padding: 20px 40px 40px 40px;
    border-radius: 30px;}
 
+
+
+
+
+
+   .third-section{display: flex;
+    margin:100px 100px 0 100px;
+    background-image: url(images/shapes/shape-1.png); 
+    background-repeat: no-repeat; 
+    background-position: left; 
+     background-size: 300px; 
+}
+
+
+    .heading-2{margin: 0 70% 0 0;} 
+
+    .develop{margin: 50px 100px 0 30px;}
+    
+
+
+
+    .fouth-section{display: flex;
+        margin:100px 100px 0 100px;
+        background-image: url(images/shapes/shape-1.png); 
+        background-repeat: no-repeat; 
+        background-position: right;  
+          background-size: 200px;  
+    }
+    
+
+    .communication{margin:50px 30px 0 100px;}
